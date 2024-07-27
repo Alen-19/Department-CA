@@ -1,0 +1,75 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(250, 235, 215);
+}
+.mcalogobox {
+  display: flex;
+}
+nav {
+  display: flex;
+  align-items: center;
+}
+
+nav a {
+  padding: 10px;
+  margin: 5px;
+  border-radius: 15px;
+  color: black;
+}
+
+.box{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.box img{
+  width: 100%;
+  height: 100%;
+}
+.section1 {
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.card {
+  height: 50px;
+  width: 25%;
+}
+.mca {
+  background-color: aqua;
+}
+.intmca {
+  margin-left: 15px;
+  background-color: aqua;
+}
+.info {
+  display: flex;
+  justify-content: center;
+}
+.hod {
+  border: 1px solid;
+}
+.big-box {
+  display: flex;
+  justify-content: center;
+}
+.img-box1 {
+  display: flex;
+}
+.img-big-box img {
+  width: 200px;
+  padding-left: 10px;
+  padding-top: 10px;
+  height: 70px;
+  margin-top: 20px;
+}
+.courses {
+  display: flex;
+  justify-content: center;
+}
+.fee-structure {
+  display: flex;
+  justify-content: center;
+}

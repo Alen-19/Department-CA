@@ -1,0 +1,36 @@
+.head {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: 1px solid #e6f2fb;
+  padding: 10px 0px 10px;
+  width: 100%;
+}
+.icon {
+  width: 50px;
+  height: 50px;
+}
+.box {
+  display: flex;
+}
+
+.roomlock {
+  width: 261px;
+  height: 148px;
+  margin-left: 10px;
+  margin-left: 20px;
+  border: 1px solid #e6f2fb;
+}
+p {
+  color: white;
+  background-color: red;
+}
+h5 {
+  color: blue;
+}
+
+.fullbox {
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+}
